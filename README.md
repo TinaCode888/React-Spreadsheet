@@ -4,7 +4,7 @@ This project is a spreadsheet-like user interface built with **React 19**, **Typ
 
 ## Screenshot
 
-  ![React Spreadsheet (Inscript company assignment)](https://github.com/user-attachments/assets/4a5c8e64-330c-4a80-84f3-499fc78a99ef)
+  ![React Spreadsheet (Inscript company assignment)](https://github.com/user-attachments/assets/2660779a-d59f-4f0f-bd0a-5ec21a7b8544)
 
 ## ✨ Features
 
