@@ -25,12 +25,12 @@ This project is a spreadsheet-like user interface built with **React 19**, **Typ
 
 ### 1. Clone the repository
   ```bash
-  git clone https://github.com/TinaCode888/React-Spreadsheet.git
+  git clone https://github.com/TinaCode888/react-spreadsheet.git
   ```
 
 ### 2. Navigate to the project directory
   ```bash
-  cd React-Spreadsheet
+  cd react-spreadsheet
   ```
 
 ### 3. Install dependencies
