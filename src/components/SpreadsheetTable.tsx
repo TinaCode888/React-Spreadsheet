@@ -479,10 +479,12 @@ const SpreadsheetTable = () => {
                   updated[i].value = e.currentTarget.innerText.trim();
                   setTableData(updated);
                 }}
-                className="sm:p-2 border border-gray-200 flex justify-end items-center focus:outline-none focus:border-green-700"
+                className="p-0 border border-gray-200 focus:outline-none focus:border-green-700"
               >
-                {job.value}
-                <LiaRupeeSignSolid className="text-[#AFAFAF]" />
+                <div className="h-full w-full flex justify-end items-center sm:p-2">
+                  {job.value}
+                  <LiaRupeeSignSolid className="text-[#AFAFAF]" />
+                </div>
               </td>
               <td className="sm:p-2 border border-gray-200">&nbsp;</td>
             </tr>

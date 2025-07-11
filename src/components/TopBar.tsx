@@ -45,7 +45,7 @@ const TopBar = () => {
               }}
             />
           </div>
-          <div className="relative inline-block ml-6 sm:ml-0">
+          <div className="relative inline-block ml-8 sm:ml-0">
             <IoNotificationsOutline
               title="Notifications"
               className="text-2xl text-[#121212] cursor-pointer"
